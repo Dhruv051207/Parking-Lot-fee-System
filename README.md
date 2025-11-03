@@ -71,6 +71,3 @@ Total fee: ₹40
   (No external libraries are required.)
 
 ---
-
-
-Would you like me to **include a short “Code Flow Diagram”** (a simple text-based visual showing how functions connect — input → check_in → calculate_fee → update revenue)? It can make your README more professional and clear.
